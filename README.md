@@ -14,7 +14,7 @@
 
 ## Description
 
-_ A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations._
+_A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations._
 
 ## Setup/Installation Requirements
 
