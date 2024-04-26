@@ -5,7 +5,7 @@ const calculator = {
   operator: null,
 };
 
-function inputDigit(digit) {
+function inputDigit(dot) {
   const { displayValue, waitingForSecondOperand } = calculator;
 
   if (waitingForSecondOperand === true) {
