@@ -33,5 +33,5 @@ _MIT_
 
 ## Contact Information
 
-_Phone Number: 09064859295_
-_Email: dipoajileye05@gmail.com_
+* _Phone Number: 09064859295_
+* _Email: dipoajileye05@gmail.com_
