@@ -47,7 +47,7 @@ function handleOperator(nextOperator) {
   calculator.operator = nextOperator;
 }
 
-const doCalculation = {
+const performCalculation = {
   '/': (firstOperand, secondOperand) => firstOperand / secondOperand,
 
   '*': (firstOperand, secondOperand) => firstOperand * secondOperand,
